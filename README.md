@@ -1,28 +1,21 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Bitcoin Ticker 🤑
 
-## Our Goal
+<img width="250" alt="Screen Shot 2022-03-31 at 3 56 32 PM" src="https://user-images.githubusercontent.com/13727615/161148404-a1aea86e-cb58-4d0a-b216-6f0a1f0380e9.png">
 
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
+## Summary
 
+This app is a Bitcoin price tracker built in Flutter.
 
-## What you will create
+## What it does
+- Uses coinapi API and Stateful widgets to return crypto pricing data
+- Formats data with DropdownButton Widget from Material design and Cuptertino Widgets
 
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
+## How to run
+Install dependencies with: `flutter packages get`
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+Run project with: `flutter run`
 
-## What you will learn
-
-- How to use the DropdownButton Widget from Material design.
-- How to loop through code using Dart for and for-in loops.
-- How to use Cupertino Widgets in your app.
-- How to check the platform your app is being run on to customise the UI for that platform.
-- Revise previous concepts by completing the challenges.
-
+--------
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
